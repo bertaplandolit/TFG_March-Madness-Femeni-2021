@@ -1,5 +1,5 @@
 # TFG_March-Madness-Femení-2021
-It has benn  developed a model using Machine Learning tools to predict the outcome of the Women’s March Madness 2021 tournament. The data was provided by the March Machine Learning Mania 2021, the Kaggle.com competition.
+A model has been  developed using Machine Learning tools to predict the outcome of the Women’s March Madness 2021 tournament. The data was provided by the March Machine Learning Mania 2021, the Kaggle.com competition.
 
 It has been made a process of data cleaning, feature engineering, data exploration and, finally, seven classification methods have been tested, for which the optimal hyperparameters have been searched and found.
 
